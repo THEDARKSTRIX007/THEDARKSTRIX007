@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @THEDARKSTRIX007
 - 👀 I’m interested in current world technologies and upcoming ones!
 - 🌱 My Portfolio is https://thedarkstrix007.github.io/MyPortfolio/
-- 💞️ I’m looking to collaborate on python projects and android developments
+- 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me- singhvishal.vs60@gmail.com
 - 
 
